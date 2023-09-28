@@ -1,6 +1,8 @@
 # Snake Game: training using Q-learning (Reinforcement Learning Algorithm)
 This repository contains a Snake Game implemented using Python and PyTorch, showcasing reinforcement learning techniques. The goal of this project is to train an AI agent to play the classic Snake game using Q-learning.
 
+[YouTube link](https://youtu.be/c6N5VNmNx4s)
+
 https://github.com/DmFors/ml-rl-snake/assets/62393996/3d2976b2-dd91-4e60-a0dc-6ce83633e366
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
